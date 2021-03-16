@@ -1,0 +1,14 @@
+F:\Sharaga\2 kurs\Informatika\Lab1\bin\Debug\Lab1.exe.config
+F:\Sharaga\2 kurs\Informatika\Lab1\bin\Debug\Lab1.exe
+F:\Sharaga\2 kurs\Informatika\Lab1\bin\Debug\Lab1.pdb
+F:\Sharaga\2 kurs\Informatika\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+F:\Sharaga\2 kurs\Informatika\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+F:\Sharaga\2 kurs\Informatika\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+F:\Sharaga\2 kurs\Informatika\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+F:\Sharaga\2 kurs\Informatika\Lab1\obj\Debug\Lab1.exe
+F:\Sharaga\2 kurs\Informatika\Lab1\obj\Debug\Lab1.pdb
+F:\Sharaga\2 kurs\Informatika\Lab1\obj\Debug\Lab1.authorizationForm.resources
+F:\Sharaga\2 kurs\Informatika\Lab1\obj\Debug\Lab1.organizerForm.resources
+F:\Sharaga\2 kurs\Informatika\Lab1\obj\Debug\Lab1.addEvent.resources
+F:\Sharaga\2 kurs\Informatika\Lab1\obj\Debug\Lab1.search.resources
+F:\Sharaga\2 kurs\Informatika\Lab1\obj\Debug\Lab1.chacgeEvent.resources
